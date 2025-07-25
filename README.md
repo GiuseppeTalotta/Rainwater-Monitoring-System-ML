@@ -32,7 +32,6 @@ The app offers two usage modes:
 
 Install required libraries:
 
-```bash
 pip install -r requirements.txt
 
 ## 🔧 How to Run Locally
